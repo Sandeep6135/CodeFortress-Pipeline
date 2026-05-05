@@ -13,7 +13,7 @@ Currently, only the latest major release of CodeFortress is supported with secur
 
 We take the security of CodeFortress seriously. If you discover a vulnerability, please DO NOT open a public issue.
 
-Instead, please email **security@codefortress.dev** (or your actual email).
+Instead, please email **sandeep.karmata.dev@gmail.com**.
 Please include:
 - A description of the vulnerability.
 - Steps to reproduce the issue.
